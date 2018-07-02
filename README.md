@@ -1,7 +1,5 @@
 # Robô Self-Balance (NEYMAR)
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 O Robô Self-Balance é um robô contendo apenas duas rodas, sua finalidade é se manter equilibrado na posição vertical. Para isto, é utilizado componentes que em conjunto cumprem com a proposta deste robô.
 
 As Seções a seguir contemplam os seguintes tópicos:
@@ -36,6 +34,8 @@ A instalação dos componentes deve ser feita da seguinte forma:
     Pino A-1B conectado a porta digital 10 do Arduino.
     Motores devem ser conectados a saída da ponte H.
     É necessário ligar um GND em comum com a ponte H e o Arduino.
+    
+![N|Solid](https://image.ibb.co/cWG8Zy/Desenho_sem_t_tulo.jpg)
     
 # Instrução de Configuração
 
